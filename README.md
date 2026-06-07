@@ -274,8 +274,8 @@ Cada participante mostrará brevemente su página web.
 |----------------|-----------|---------------------|
 | 1 | Exploración de CodePen | https://codepen.io |
 | 2 | Primer HTML | https://codepen.io |
-| 3 | Encabezados y párrafos | https://codepen.io |
-| 4 | Imágenes y enlaces | https://codepen.io |
+| 3 | Encabezados y párrafos | https://codepen.io/Fabri-Facemaker/pen/KwNQbKg |
+| 4 | Imágenes y enlaces | https://codepen.io/Fabri-Facemaker/pen/QwGQzWN |
 | 5 | Listas | https://codepen.io |
 | 6 | Introducción a CSS | https://codepen.io |
 | 7 | Colores y fondos | https://codepen.io |

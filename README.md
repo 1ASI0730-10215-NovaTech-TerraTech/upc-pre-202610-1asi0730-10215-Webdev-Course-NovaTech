@@ -6,8 +6,6 @@ Este curso de **60 minutos** introduce a estudiantes de secundaria a la creació
 
 **¡No requiere descargas!** Solo necesitas un navegador web moderno.
 
-### Información General
-
 - **Duración total:** 60 minutos
 - **Público objetivo:** Estudiantes de 12 a 17 años sin experiencia en programación
 - **Prerrequisitos:** Ninguno
@@ -17,287 +15,105 @@ Este curso de **60 minutos** introduce a estudiantes de secundaria a la creació
 
 ---
 
-# Secuencia de Lecciones
+## Secuencia de Lecciones
 
-## Lección 1: ¿Qué es el Desarrollo Web? (5 minutos)
+### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
+- **Descripción**: Introducción a los conceptos básicos del desarrollo web: qué es un sitio web, diferencia entre frontend y backend, y las tecnologías que se usarán (HTML y CSS). Se motiva a los estudiantes mostrando ejemplos de páginas sencillas que podrán crear.
+- **Enlaces**: [Ver la lección]()
+- **Consejos Clave**:
+- **Material de Apoyo**:
 
-### Objetivo
-Comprender qué es una página web y cuáles son las tecnologías básicas utilizadas para construirla.
+### Lección 2: Introducción a HTML (5 minutos)
+- **Descripción**: HTML como lenguaje de marcado para estructurar contenido. Se explica el concepto de etiquetas, apertura y cierre, y se escribe el primer “Hola mundo” directamente en CodePen.
+- **Enlaces**: [Ver la lección]()
+- **Consejos Clave**:
+- **Material de Apoyo**:
 
-### Contenido
-- ¿Qué es una página web?
-- Ejemplos de sitios web populares.
-- Introducción a HTML, CSS y JavaScript.
-- Analogía:
-    - HTML = Estructura.
-    - CSS = Apariencia.
-    - JavaScript = Interactividad.
+### Lección 3: Estructura de un documento HTML (5 minutos)
+- **Descripción**: Anatomía de una página web: `<!DOCTYPE html>`, `<html>`, `<head>`, `<title>` y `<body>`. Los estudiantes crean la estructura vacía de su primera página.
+- **Enlaces**: [Ver la lección]()
+- **Consejos Clave**:
+- **Material de Apoyo**:
 
-### Actividad Práctica
-Abrir CodePen y observar una página web de ejemplo.
+### Lección 4: Texto y encabezados en HTML (5 minutos)
+- **Descripción**: Etiquetas de encabezado (`<h1>` a `<h6>`), párrafos (`<p>`), negrita (`<strong>`) y cursiva (`<em>`). Los estudiantes redactan un pequeño artículo con título y párrafos usando estas etiquetas.
+- **Enlaces**: [Ver la lección]()
+- **Consejos Clave**:
+- **Material de Apoyo**:
 
-### Concepto Clave
-**Sitios web = Contenido (HTML) + Estilo (CSS)**
+### Lección 5: Enlaces e imágenes (5 minutos)
+- **Descripción**: Uso de la etiqueta `<a>` con el atributo `href` para crear hipervínculos, y de `<img>` con `src` y `alt` para insertar imágenes. Crean una página con un enlace a su sitio favorito y una imagen desde una URL pública.
+- **Enlaces**: [Ver la lección]()
+- **Consejos Clave**:
+- **Material de Apoyo**:
 
----
+### Lección 6: Listas en HTML (5 minutos)
+- **Descripción**: Listas ordenadas (`<ol>`) y desordenadas (`<ul>`) con elementos `<li>`. Los estudiantes elaboran una lista de sus pasatiempos o una lista de pasos para realizar una tarea.
+- **Enlaces**: [Ver la lección]()
+- **Consejos Clave**:
+- **Material de Apoyo**:
 
-## Lección 2: Primer Documento HTML (6 minutos)
+### Lección 7: Introducción a CSS (5 minutos)
+- **Descripción**: Qué es CSS y cómo se aplica: estilos en línea y bloque `<style>`. Propiedades básicas: `color`, `background-color`, `font-size`. Los estudiantes cambian el color del texto y el fondo de su página.
+- **Enlaces**: [Ver la lección]()
+- **Consejos Clave**:
+- **Material de Apoyo**:
 
-### Objetivo
-Crear una página web básica utilizando HTML.
+### Lección 8: Selectores y clases (5 minutos)
+- **Descripción**: Selectores de elemento, clase (`.nombre`) e id (`#identificador`). Cómo asignarlos en HTML. Los estudiantes aplican distintos colores y estilos a elementos usando clases.
+- **Enlaces**: [Ver la lección]()
+- **Consejos Clave**:
+- **Material de Apoyo**:
 
-### Contenido
-- Etiquetas HTML.
-- Estructura básica de un documento.
-- Elementos `<html>`, `<head>` y `<body>`.
+### Lección 9: Modelo de caja y espaciado (5 minutos)
+- **Descripción**: Concepto de margen (`margin`), relleno (`padding`) y borde (`border`). Los estudiantes ajustan los espacios entre elementos de su página para mejorar la presentación.
+- **Enlaces**: [Ver la lección]()
+- **Consejos Clave**:
+- **Material de Apoyo**:
 
-### Actividad Práctica
-
-```html
-<h1>Mi primera página web</h1>
-<p>Hola mundo.</p>
-```
-
-### Resultado Esperado
-Mostrar un título y un párrafo en el navegador.
-
----
-
-## Lección 3: Encabezados y Párrafos (6 minutos)
-
-### Objetivo
-Organizar contenido textual utilizando encabezados y párrafos.
-
-### Contenido
-- Etiquetas `<h1>` a `<h6>`.
-- Etiqueta `<p>`.
-
-### Actividad Práctica
-
-```html
-<h1>Mi videojuego favorito</h1>
-<h2>Minecraft</h2>
-<p>Es un juego de construcción y exploración.</p>
-```
-
-### Resultado Esperado
-Crear una estructura básica de contenido.
+### Lección 10: Proyecto final – Mi primera página web (15 minutos)
+- **Descripción**: Actividad integradora que combina todos los conocimientos adquiridos. Los estudiantes crean una página personal con título, imagen, breve descripción, lista de gustos y un enlace, aplicando estilos con clases y ajustando márgenes. Se comparte el resultado final en CodePen.
+- **Enlaces**: [Ver la lección]()
+- **Consejos Clave**:
+- **Material de Apoyo**:
 
 ---
 
-## Lección 4: Imágenes y Enlaces (6 minutos)
+## Recursos Adicionales
 
-### Objetivo
-Agregar imágenes y enlaces a una página web.
-
-### Contenido
-- Etiqueta `<img>`.
-- Etiqueta `<a>`.
-
-### Actividad Práctica
-
-```html
-<img src="https://via.placeholder.com/150">
-
-<a href="https://www.google.com">
-Visitar Google
-</a>
-```
-
-### Resultado Esperado
-Mostrar una imagen y un enlace funcional.
-
----
-
-## Lección 5: Listas (5 minutos)
-
-### Objetivo
-Presentar información organizada mediante listas.
-
-### Contenido
-- Listas ordenadas (`<ol>`).
-- Listas desordenadas (`<ul>`).
-- Elementos (`<li>`).
-
-### Actividad Práctica
-
-```html
-<ul>
-  <li>Videojuegos</li>
-  <li>Música</li>
-  <li>Deportes</li>
-</ul>
-```
-
-### Resultado Esperado
-Visualizar una lista de elementos.
-
----
-
-## Lección 6: Introducción a CSS (6 minutos)
-
-### Objetivo
-Comprender cómo CSS modifica la apariencia de una página web.
-
-### Contenido
-- ¿Qué es CSS?
-- Selectores básicos.
-- Propiedades y valores.
-
-### Actividad Práctica
-
-```css
-h1 {
-  color: blue;
-}
-```
-
-### Resultado Esperado
-Cambiar el color del título.
-
----
-
-## Lección 7: Colores y Fondos (6 minutos)
-
-### Objetivo
-Personalizar el diseño visual mediante colores.
-
-### Contenido
-- Propiedad `color`.
-- Propiedad `background-color`.
-
-### Actividad Práctica
-
-```css
-body {
-  background-color: lightblue;
-}
-
-p {
-  color: darkred;
-}
-```
-
-### Resultado Esperado
-Modificar el color de fondo y texto.
-
----
-
-## Lección 8: Tipografías y Alineación (6 minutos)
-
-### Objetivo
-Mejorar la presentación del contenido.
-
-### Contenido
-- `font-family`.
-- `font-size`.
-- `text-align`.
-
-### Actividad Práctica
-
-```css
-body {
-  font-family: Arial;
-}
-
-h1 {
-  text-align: center;
-}
-```
-
-### Resultado Esperado
-Cambiar fuente y alineación del contenido.
-
----
-
-## Lección 9: Construyendo una Página Personal (7 minutos)
-
-### Objetivo
-Integrar todos los conceptos aprendidos.
-
-### Contenido
-
-Crear una página personal que incluya:
-
-- Título.
-- Imagen.
-- Descripción personal.
-- Lista de hobbies.
-- Enlace favorito.
-
-### Actividad Práctica Guiada
-
-Los estudiantes construirán una página sencilla utilizando HTML y CSS.
-
-### Resultado Esperado
-
-Una página web personal completamente funcional.
-
----
-
-## Lección 10: Proyecto Final y Cierre (7 minutos)
-
-### Objetivo
-Personalizar y presentar el proyecto desarrollado.
-
-### Actividad Práctica
-
-Cada estudiante deberá:
-
-- Personalizar colores.
-- Cambiar imágenes.
-- Modificar textos.
-- Agregar elementos adicionales.
-
-### Presentación Final
-
-Cada participante mostrará brevemente su página web.
-
-### Reflexión Final
-
-- ¿Qué aprendimos?
-- ¿Qué es HTML?
-- ¿Qué es CSS?
-- ¿Cómo continuar aprendiendo desarrollo web?
-
----
-
-# Recursos Adicionales
-
-## Código Fuente Completo
+### Código Fuente Completo
 
 - Repositorio GitHub: https://github.com/1ASI0730-10215-NovaTech-TerraTech/upc-pre-202610-1asi0730-10215-Webdev-Course-NovaTech 
 
-## Actividades Prácticas
+### Actividades Prácticas
 
 | Nro. de Lección | Actividad | Empezar a Programar |
 |----------------|-----------|---------------------|
-| 1 | Exploración de CodePen | https://codepen.io |
-| 2 | Primer HTML | https://codepen.io |
-| 3 | Encabezados y párrafos | https://codepen.io/Fabri-Facemaker/pen/KwNQbKg |
-| 4 | Imágenes y enlaces | https://codepen.io/Fabri-Facemaker/pen/QwGQzWN |
-| 5 | Listas | https://codepen.io |
-| 6 | Introducción a CSS | https://codepen.io |
-| 7 | Colores y fondos | https://codepen.io |
-| 8 | Tipografías y alineación | https://codepen.io |
-| 9 | Página personal | https://codepen.io |
-| 10 | Proyecto final | https://codepen.io |
+| 1 | Conceptos básicos del desarrollo web | https://codepen.io |
+| 2 | Mi primer “Hola mundo” en HTML | https://codepen.io |
+| 3 | Estructura de la página | https://codepen.io |
+| 4 | Encabezados y párrafos | https://codepen.io |
+| 5 | Enlaces e imágenes | https://codepen.io |
+| 6 | Creando listas | https://codepen.io |
+| 7 | Primeros pasos con CSS | https://codepen.io |
+| 8 | Coloreando con clases | https://codepen.io |
+| 9 | Jugando con márgenes y relleno | https://codepen.io |
+| 10 | Página personal completa | https://codepen.io |
 
 ---
 
-# Distribución del Equipo
+## Distribución del Equipo
 
 | Integrante | Lecciones Asignadas |
 |------------|---------------------|
-| Acuña de la Cruz, Luis Alfredo | Lecciones 1 y 2 |
-| Aguilar Untiveros, Rodrigo Fabrizio | Lecciones 3 y 4 |
-| Howard Robles, Guillermo Arturo | Lecciones 5 y 6 |
-| Perez Encarnación, Breithner Rodolfo | Lecciones 7 y 8 |
-| Retuerto Rodríguez, Jorge Manuel | Lecciones 9 y 10 |
+| Aguilar Untiveros, Rodrigo Fabrizio | Lecciones 1, 2, 3 |
+| Howard Robles, Guillermo Arturo | Lecciones 4, 5, 6 |
+| Perez Encarnación, Breithner Rodolfo | Lecciones 7, 8, 9 |
+| Retuerto Rodríguez, Jorge Manuel | Lección 10 |
 
 ---
 
-# Elaboración
+## Elaboración
 
 **Universidad Peruana de Ciencias Aplicadas (UPC)**
 
@@ -317,13 +133,12 @@ Cada participante mostrará brevemente su página web.
 
 | Apellidos y Nombres | Código |
 |--------------------|---------|
-| Acuña de la Cruz, Luis Alfredo | U202417228 |
 | Aguilar Untiveros, Rodrigo Fabrizio | U202318309 |
 | Howard Robles, Guillermo Arturo | U202222275 |
 | Perez Encarnación, Breithner Rodolfo | U202418577 |
 | Retuerto Rodríguez, Jorge Manuel | U202318612 |
 
-**Fecha de Entrega:** 01/06/2026
+**Fecha de Entrega:** 18/06/2026
 
 ---
 

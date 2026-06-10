@@ -157,9 +157,9 @@ Este curso de **60 minutos** introduce a estudiantes de secundaria a la creació
 | 1 | Conceptos básicos del desarrollo web | https://codepen.io |
 | 2 | Mi primer “Hola mundo” en HTML | https://codepen.io |
 | 3 | Estructura de la página | https://codepen.io |
-| 4 | Encabezados y párrafos | https://codepen.io |
-| 5 | Enlaces e imágenes | https://codepen.io |
-| 6 | Creando listas | https://codepen.io |
+| 4 | Encabezados y párrafos | https://codepen.io/Guillermo-Howard/pen/OPWNBGp |
+| 5 | Enlaces e imágenes | https://codepen.io/Guillermo-Howard/pen/azpNRxx |
+| 6 | Creando listas | https://codepen.io/Guillermo-Howard/pen/EaZKdJM |
 | 7 | Primeros pasos con CSS | https://codepen.io |
 | 8 | Coloreando con clases | https://codepen.io |
 | 9 | Jugando con márgenes y relleno | https://codepen.io |

@@ -37,21 +37,86 @@ Este curso de **60 minutos** introduce a estudiantes de secundaria a la creació
 
 ### Lección 4: Texto y encabezados en HTML (5 minutos)
 - **Descripción**: Etiquetas de encabezado (`<h1>` a `<h6>`), párrafos (`<p>`), negrita (`<strong>`) y cursiva (`<em>`). Los estudiantes redactan un pequeño artículo con título y párrafos usando estas etiquetas.
-- **Enlaces**: [Ver la lección]()
+- **Enlaces**: [Ver la lección](https://youtu.be/Nmt3taroCIc)
 - **Consejos Clave**:
+    - Recuerda: los encabezados no solo hacen el texto más grande, **organizan el contenido** como los títulos de un libro.
+    - Usa `<strong>` para dar importancia y `<em>` para énfasis; evita `<b>` e `<i>`, que solo cambian la apariencia.
+    - Siempre cierra los párrafos con `</p>`, es una buena costumbre.
+    - No saltes niveles de encabezado: después de un `<h1>` usa `<h2>`, no `<h3>`.
 - **Material de Apoyo**:
+  ```html
+  <h1>Lección 4</h1>
+  <h2>Introducción</h2>
+  <p>Hoy aprendremos sobre <strong>HTML</strong>, el lenguaje que da estructura a las páginas web.</p>
+  <p> Es muy <em>fácil</em> y divertido. </p>
+  <h2>Desarrollo</h2>
+  <p>Los encabezados van del 1 al 6 y los párrafos se crean con la etiqueta "p". </p>
+
+  ```
 
 ### Lección 5: Enlaces e imágenes (5 minutos)
 - **Descripción**: Uso de la etiqueta `<a>` con el atributo `href` para crear hipervínculos, y de `<img>` con `src` y `alt` para insertar imágenes. Crean una página con un enlace a su sitio favorito y una imagen desde una URL pública.
-- **Enlaces**: [Ver la lección]()
+- **Enlaces**: [Ver la lección](https://youtu.be/JwXJwNCbLRc)
 - **Consejos Clave**:
+    - Asegúrate de incluir `https://` en el atributo `href` para sitios externos.
+    - No olvides el atributo `alt` en las imágenes: describe la imagen para accesibilidad y cuando no carga.
+    - Las imágenes no se insertan, se enlazan desde una URL que termina en `.jpg`, `.png`, etc.
+    - Puedes hacer una imagen clickeable rodeándola con un enlace: `<a href="..."><img src="..."></a>`.
 - **Material de Apoyo**:
+  ```html
+  <h1> Lección 5</h1>
+  <p> Lugar </p>
+  <img src="https://images.pexels.com/photos/34585923/pexels-photo-34585923.jpeg" alt= "Imagen" width="300" >
+
+  <p>Pagina web: </p>
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">PaginaEjemplo</a>
+
+  <h2> Video Ejemplo: </h2>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/SOWrp6ksPAQ?si=h79m78YqX0TozNpS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  ```
 
 ### Lección 6: Listas en HTML (5 minutos)
 - **Descripción**: Listas ordenadas (`<ol>`) y desordenadas (`<ul>`) con elementos `<li>`. Los estudiantes elaboran una lista de sus pasatiempos o una lista de pasos para realizar una tarea.
-- **Enlaces**: [Ver la lección]()
+- **Enlaces**: [Ver la lección](https://youtu.be/jA4pVl5fhmg)
 - **Consejos Clave**:
+    - Dentro de `<ul>` o `<ol>` solo coloca elementos `<li>`.
+    - Las listas ordenadas (`<ol>`) numeran automáticamente; no escribas los números a mano.
+    - Puedes anidar listas para crear subcategorías, como recetas o menús.
+    - Usa `<ol>` cuando el orden importa (pasos) y `<ul>` cuando no (hobbies, ingredientes).
+    - El aspecto visual se personaliza después con CSS; HTML ya define la estructura.
 - **Material de Apoyo**:
+  ```html
+  <h1>Lección 6</h1>
+  <ul>
+    <li>Jugar videojuegos</li>
+    <li>Dibujar</li>
+    <li>Escuchar música</li>
+  </ul>
+
+  <h2>Pasos para hacer un sándwich</h2>
+  <ol>
+    <li>Tomar dos rebanadas de pan</li>
+    <li>Untar mayonesa</li>
+    <li>Agregar jamón y queso</li>
+    <li>Cerrar y disfrutar</li>
+  </ol>
+
+  <h3>Lista de la compra por categorías</h3>
+  <ul>
+    <li>Frutas
+      <ul>
+        <li>Manzanas</li>
+        <li>Plátanos</li>
+      </ul>
+    </li>
+    <li>Lácteos
+      <ol>
+        <li>Leche</li>
+        <li>Queso</li>
+      </ol>
+    </li>
+  </ul>
+  ```
 
 ### Lección 7: Introducción a CSS (5 minutos)
 - **Descripción**: Qué es CSS y cómo se aplica: estilos en línea y bloque `<style>`. Propiedades básicas: `color`, `background-color`, `font-size`. Los estudiantes cambian el color del texto y el fondo de su página.

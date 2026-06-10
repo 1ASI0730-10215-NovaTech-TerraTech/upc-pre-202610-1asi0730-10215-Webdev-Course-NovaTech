@@ -19,19 +19,19 @@ Este curso de **60 minutos** introduce a estudiantes de secundaria a la creació
 
 ### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
 - **Descripción**: Introducción a los conceptos básicos del desarrollo web: qué es un sitio web, diferencia entre frontend y backend, y las tecnologías que se usarán (HTML y CSS). Se motiva a los estudiantes mostrando ejemplos de páginas sencillas que podrán crear.
-- **Enlaces**: [Ver la lección]()
+- **Enlaces**: [Ver la lección](https://youtu.be/SBVMB9KsMso)
 - **Consejos Clave**:
 - **Material de Apoyo**:
 
 ### Lección 2: Introducción a HTML (5 minutos)
 - **Descripción**: HTML como lenguaje de marcado para estructurar contenido. Se explica el concepto de etiquetas, apertura y cierre, y se escribe el primer “Hola mundo” directamente en CodePen.
-- **Enlaces**: [Ver la lección]()
+- **Enlaces**: [Ver la lección](https://youtu.be/XEFlbn94NM0)
 - **Consejos Clave**:
 - **Material de Apoyo**:
 
 ### Lección 3: Estructura de un documento HTML (5 minutos)
 - **Descripción**: Anatomía de una página web: `<!DOCTYPE html>`, `<html>`, `<head>`, `<title>` y `<body>`. Los estudiantes crean la estructura vacía de su primera página.
-- **Enlaces**: [Ver la lección]()
+- **Enlaces**: [Ver la lección](https://youtu.be/d7rkgX1rGfU)
 - **Consejos Clave**:
 - **Material de Apoyo**:
 
@@ -155,8 +155,8 @@ Este curso de **60 minutos** introduce a estudiantes de secundaria a la creació
 | Nro. de Lección | Actividad | Empezar a Programar |
 |----------------|-----------|---------------------|
 | 1 | Conceptos básicos del desarrollo web | https://codepen.io |
-| 2 | Mi primer “Hola mundo” en HTML | https://codepen.io |
-| 3 | Estructura de la página | https://codepen.io |
+| 2 | Mi primer “Hola mundo” en HTML | https://codepen.io/Fabri-Facemaker/pen/QwGQzWN |
+| 3 | Estructura de la página | https://codepen.io/Fabri-Facemaker/pen/KwNQbKg |
 | 4 | Encabezados y párrafos | https://codepen.io/Guillermo-Howard/pen/OPWNBGp |
 | 5 | Enlaces e imágenes | https://codepen.io/Guillermo-Howard/pen/azpNRxx |
 | 6 | Creando listas | https://codepen.io/Guillermo-Howard/pen/EaZKdJM |

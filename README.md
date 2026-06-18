@@ -137,10 +137,59 @@ Este curso de **60 minutos** introduce a estudiantes de secundaria a la creació
 - **Material de Apoyo**:
 
 ### Lección 10: Proyecto final – Mi primera página web (15 minutos)
-- **Descripción**: Actividad integradora que combina todos los conocimientos adquiridos. Los estudiantes crean una página personal con título, imagen, breve descripción, lista de gustos y un enlace, aplicando estilos con clases y ajustando márgenes. Se comparte el resultado final en CodePen.
-- **Enlaces**: [Ver la lección]()
+- **Descripción**: Actividad integradora que combina todos los conocimientos adquiridos. Los estudiantes crean una página personal con título, imagen, breve descripción y uso de buenas prácticas. Se comparte el resultado final en CodePen.
+- **Enlaces**: [Ver la lección](https://youtu.be/cDp6npNB4u0)
 - **Consejos Clave**:
+    - Nombrar las clases de etiquetas en formato kebab-case.
+    - Dividir `body` en las 3 etiquetas semanticas principales: `header`, `main` y `footer`.
+    - Uso de variables dentro de CSS para estandarizar y facilitar el uso de propiedades.
 - **Material de Apoyo**:
+
+*Estructura básica de un proyecto HTML, implementando etiquetas semanticas*
+
+```
+<!DOCTYPE html>
+<html>
+<head lang="es">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>test project</title>
+  <link href="style.css" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <h1>encabezado</h1>
+  </header>
+
+  <main>
+    <h2>contenido principal</h2>
+  </main>
+
+  <footer>
+   <p>pie de página</p>   
+  </footer>
+</body>
+</html>
+```
+*Estructura básica de un proyecto CSS, implementando variables*
+
+```
+:root {
+  --primary-color: #2c3e50;
+  --font-size: #3498db;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--primary-color);
+  font-size: var(font-size);
+}
+```
 
 ---
 
@@ -163,7 +212,7 @@ Este curso de **60 minutos** introduce a estudiantes de secundaria a la creació
 | 7 | Primeros pasos con CSS | https://codepen.io |
 | 8 | Coloreando con clases | https://codepen.io |
 | 9 | Jugando con márgenes y relleno | https://codepen.io |
-| 10 | Página personal completa | https://codepen.io |
+| 10 | Página personal completa | [https://codepen.io/página-web](https://codepen.io/editor/Jorge-Manuel-the-scripter/pen/019ed97e-6400-71e0-b383-151c3aae366d) |
 
 ---
 

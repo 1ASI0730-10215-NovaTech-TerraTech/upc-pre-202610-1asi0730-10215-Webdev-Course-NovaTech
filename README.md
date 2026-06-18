@@ -187,7 +187,7 @@ Este curso de **60 minutos** introduce a estudiantes de secundaria a la creació
 
 body {
   background-color: var(--primary-color);
-  font-size: var(font-size);
+  font-size: var(--font-size);
 }
 ```
 

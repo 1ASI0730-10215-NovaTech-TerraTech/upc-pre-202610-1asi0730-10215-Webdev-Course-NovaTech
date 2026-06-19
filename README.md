@@ -319,7 +319,7 @@ body {
 | Perez Encarnación, Breithner Rodolfo | U202418577 |
 | Retuerto Rodríguez, Jorge Manuel | U202318612 |
 
-**Fecha de Entrega:** 18/06/2026
+**Fecha de Entrega:** 19/06/2026
 
 ---
 

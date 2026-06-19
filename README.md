@@ -19,25 +19,31 @@ Este curso de **60 minutos** introduce a estudiantes de secundaria a la creació
 
 ### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
 - **Descripción**: Introducción a los conceptos básicos del desarrollo web: qué es un sitio web, diferencia entre frontend y backend, y las tecnologías que se usarán (HTML y CSS). Se motiva a los estudiantes mostrando ejemplos de páginas sencillas que podrán crear.
-- **Enlaces**: [Ver la lección](https://youtu.be/SBVMB9KsMso)
+- **Enlaces**: https://www.youtube.com/watch?v=SBVMB9KsMso
 - **Consejos Clave**:
-- **Material de Apoyo**:
+    - El desarrollo web es como construir una casa: HTML es la estructura y CSS es la decoración.
+    - El frontend es lo que ves en la pantalla, el backend es lo que hace que todo funcione detrás de escena.
+    - No necesitas ser un experto para empezar a crear tus propias páginas web; con HTML y CSS puedes hacer cosas increíbles desde el primer día. 
 
 ### Lección 2: Introducción a HTML (5 minutos)
 - **Descripción**: HTML como lenguaje de marcado para estructurar contenido. Se explica el concepto de etiquetas, apertura y cierre, y se escribe el primer “Hola mundo” directamente en CodePen.
-- **Enlaces**: [Ver la lección](https://youtu.be/XEFlbn94NM0)
+- **Enlaces**: https://www.youtube.com/watch?v=XEFlbn94NM0
 - **Consejos Clave**:
-- **Material de Apoyo**:
+    - HTML no es un lenguaje de programación, es un lenguaje de marcado que le dice al navegador cómo organizar el contenido.
+    - Las etiquetas HTML se escriben entre `<` y `>`, y la mayoría tienen una etiqueta de cierre con `/`.
+    - El primer código que escribas en HTML debe ser `<!DOCTYPE html>` para indicar que estás usando la versión más reciente del lenguaje.
 
 ### Lección 3: Estructura de un documento HTML (5 minutos)
 - **Descripción**: Anatomía de una página web: `<!DOCTYPE html>`, `<html>`, `<head>`, `<title>` y `<body>`. Los estudiantes crean la estructura vacía de su primera página.
-- **Enlaces**: [Ver la lección](https://youtu.be/d7rkgX1rGfU)
+- **Enlaces**: https://www.youtube.com/watch?v=d7rkgX1rGfU
 - **Consejos Clave**:
-- **Material de Apoyo**:
+    - El `<!DOCTYPE html>` es como el título de un libro, le dice al navegador qué tipo de documento es.
+    - El `<head>` es donde van los metadatos y enlaces a estilos, mientras que el `<body>` es donde va todo lo que quieres mostrar en la página.
+    - El `<title>` es lo que aparece en la pestaña del navegador, así que ponle un nombre divertido a tu página.
 
 ### Lección 4: Texto y encabezados en HTML (5 minutos)
 - **Descripción**: Etiquetas de encabezado (`<h1>` a `<h6>`), párrafos (`<p>`), negrita (`<strong>`) y cursiva (`<em>`). Los estudiantes redactan un pequeño artículo con título y párrafos usando estas etiquetas.
-- **Enlaces**: [Ver la lección](https://youtu.be/Nmt3taroCIc)
+- **Enlaces**: https://www.youtube.com/watch?v=Nmt3taroCIc
 - **Consejos Clave**:
     - Recuerda: los encabezados no solo hacen el texto más grande, **organizan el contenido** como los títulos de un libro.
     - Usa `<strong>` para dar importancia y `<em>` para énfasis; evita `<b>` e `<i>`, que solo cambian la apariencia.
@@ -56,7 +62,7 @@ Este curso de **60 minutos** introduce a estudiantes de secundaria a la creació
 
 ### Lección 5: Enlaces e imágenes (5 minutos)
 - **Descripción**: Uso de la etiqueta `<a>` con el atributo `href` para crear hipervínculos, y de `<img>` con `src` y `alt` para insertar imágenes. Crean una página con un enlace a su sitio favorito y una imagen desde una URL pública.
-- **Enlaces**: [Ver la lección](https://youtu.be/JwXJwNCbLRc)
+- **Enlaces**: https://www.youtube.com/watch?v=JwXJwNCbLRc
 - **Consejos Clave**:
     - Asegúrate de incluir `https://` en el atributo `href` para sitios externos.
     - No olvides el atributo `alt` en las imágenes: describe la imagen para accesibilidad y cuando no carga.
@@ -77,7 +83,7 @@ Este curso de **60 minutos** introduce a estudiantes de secundaria a la creació
 
 ### Lección 6: Listas en HTML (5 minutos)
 - **Descripción**: Listas ordenadas (`<ol>`) y desordenadas (`<ul>`) con elementos `<li>`. Los estudiantes elaboran una lista de sus pasatiempos o una lista de pasos para realizar una tarea.
-- **Enlaces**: [Ver la lección](https://youtu.be/jA4pVl5fhmg)
+- **Enlaces**: https://www.youtube.com/watch?v=jA4pVl5fhmg
 - **Consejos Clave**:
     - Dentro de `<ul>` o `<ol>` solo coloca elementos `<li>`.
     - Las listas ordenadas (`<ol>`) numeran automáticamente; no escribas los números a mano.
@@ -120,7 +126,7 @@ Este curso de **60 minutos** introduce a estudiantes de secundaria a la creació
 
 ### Lección 7: Introducción a CSS (5 minutos)
 - **Descripción**: Qué es CSS y cómo se aplica: estilos en línea y bloque `<style>`. Propiedades básicas: `color`, `background-color`, `font-size`. Los estudiantes cambian el color del texto y el fondo de su página.
-- **Enlaces**: [Ver la lección](https://youtu.be/adt98v97w88)
+- **Enlaces**: https://www.youtube.com/watch?v=adt98v97w88
 - **Consejos Clave**:
 - **Material de Apoyo**:
 ```html
@@ -146,7 +152,7 @@ body {
 
 ### Lección 8: Selectores y clases (5 minutos)
 - **Descripción**: Selectores de elemento, clase (`.nombre`) e id (`#identificador`). Cómo asignarlos en HTML. Los estudiantes aplican distintos colores y estilos a elementos usando clases.
-- **Enlaces**: [Ver la lección](https://youtu.be/1nyPR2RRTeM)
+- **Enlaces**: https://www.youtube.com/watch?v=1nyPR2RRTeM
 - **Consejos Clave**:
 - **Material de Apoyo**:
 ```html
@@ -172,7 +178,7 @@ body {
 
 ### Lección 9: Modelo de caja y espaciado (5 minutos)
 - **Descripción**: Concepto de margen (`margin`), relleno (`padding`) y borde (`border`). Los estudiantes ajustan los espacios entre elementos de su página para mejorar la presentación.
-- **Enlaces**: [Ver la lección](https://youtu.be/dwodC3ETDYM)
+- **Enlaces**: https://www.youtube.com/watch?v=dwodC3ETDYM
 - **Consejos Clave**:
 - **Material de Apoyo**:
 ```html
@@ -199,7 +205,7 @@ body {
 
 ### Lección 10: Proyecto final – Mi primera página web (15 minutos)
 - **Descripción**: Actividad integradora que combina todos los conocimientos adquiridos. Los estudiantes crean una página personal con título, imagen, breve descripción y uso de buenas prácticas. Se comparte el resultado final en CodePen.
-- **Enlaces**: [Ver la lección](https://youtu.be/cDp6npNB4u0)
+- **Enlaces**: https://www.youtube.com/watch?v=cDp6npNB4u0
 - **Consejos Clave**:
     - Nombrar las clases de etiquetas en formato kebab-case.
     - Dividir `body` en las 3 etiquetas semanticas principales: `header`, `main` y `footer`.
@@ -273,7 +279,7 @@ body {
 | 7 | Primeros pasos con CSS | https://codepen.io/Breithner-Perez/pen/GgrrrqV |
 | 8 | Coloreando con clases | https://codepen.io/Breithner-Perez/pen/XJppwdb |
 | 9 | Jugando con márgenes y relleno | https://codepen.io/Breithner-Perez/pen/rajjgde |
-| 10 | Página personal completa | [https://codepen.io/página-web](https://codepen.io/editor/Jorge-Manuel-the-scripter/pen/019ed97e-6400-71e0-b383-151c3aae366d) |
+| 10 | Página personal completa | https://codepen.io/editor/Jorge-Manuel-the-scripter/pen/019ed97e-6400-71e0-b383-151c3aae366d |
 
 ---
 

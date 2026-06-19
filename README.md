@@ -11,7 +11,7 @@ Este curso de **60 minutos** introduce a estudiantes de secundaria a la creació
 - **Prerrequisitos:** Ninguno
 - **Herramientas necesarias:** Navegador web (Chrome, Firefox, Edge o Safari)
 - **Plataforma de práctica:** CodePen
-- **Repositorio de código fuente:** https://github.com/1ASI0730-10215-NovaTech-TerraTech/upc-pre-202610-1asi0730-10215-Webdev-Course-NovaTech
+- **Repositorio de código fuente:** https://tinyurl.com/49u7xbh7
 
 ---
 
@@ -264,7 +264,7 @@ body {
 
 ### Código Fuente Completo
 
-- Repositorio GitHub: https://github.com/1ASI0730-10215-NovaTech-TerraTech/upc-pre-202610-1asi0730-10215-Webdev-Course-NovaTech 
+- Repositorio GitHub: https://tinyurl.com/49u7xbh7
 
 ### Actividades Prácticas
 
@@ -279,7 +279,7 @@ body {
 | 7 | Primeros pasos con CSS | https://codepen.io/Breithner-Perez/pen/GgrrrqV |
 | 8 | Coloreando con clases | https://codepen.io/Breithner-Perez/pen/XJppwdb |
 | 9 | Jugando con márgenes y relleno | https://codepen.io/Breithner-Perez/pen/rajjgde |
-| 10 | Página personal completa | https://codepen.io/editor/Jorge-Manuel-the-scripter/pen/019ed97e-6400-71e0-b383-151c3aae366d |
+| 10 | Página personal completa | https://tinyurl.com/uuj4freu |
 
 ---
 

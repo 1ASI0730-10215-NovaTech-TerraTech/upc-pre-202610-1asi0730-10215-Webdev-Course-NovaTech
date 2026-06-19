@@ -120,21 +120,82 @@ Este curso de **60 minutos** introduce a estudiantes de secundaria a la creació
 
 ### Lección 7: Introducción a CSS (5 minutos)
 - **Descripción**: Qué es CSS y cómo se aplica: estilos en línea y bloque `<style>`. Propiedades básicas: `color`, `background-color`, `font-size`. Los estudiantes cambian el color del texto y el fondo de su página.
-- **Enlaces**: [Ver la lección]()
+- **Enlaces**: [Ver la lección](https://youtu.be/adt98v97w88)
 - **Consejos Clave**:
 - **Material de Apoyo**:
+```html
+<h1>Leccion 7 </h1>
+
+<p>Mi primer texto con CSS </p>
+ ```
+```css
+h1 {
+  color : blue;
+  background-color : green;
+  font-size: 50px;
+}
+
+p {
+  color : #ffffff;
+}
+
+body {
+  background-color: black;
+}
+```
 
 ### Lección 8: Selectores y clases (5 minutos)
 - **Descripción**: Selectores de elemento, clase (`.nombre`) e id (`#identificador`). Cómo asignarlos en HTML. Los estudiantes aplican distintos colores y estilos a elementos usando clases.
-- **Enlaces**: [Ver la lección]()
+- **Enlaces**: [Ver la lección](https://youtu.be/1nyPR2RRTeM)
 - **Consejos Clave**:
 - **Material de Apoyo**:
+```html
+<h2>Mis Peliculas favoritas </h2>
+<p class="destacado">El Seor de los Anillos </p>
+<p class="destacado">Matrix </p>
+
+<p id= "favorita-absoluta">Interestellar</p>
+```
+
+```css
+.destacado {
+  color: blue;
+  background: purple;
+}
+
+#favorita-absoluta {
+  color: blue;
+  background: green;
+  font-size: 30px;
+}
+```
 
 ### Lección 9: Modelo de caja y espaciado (5 minutos)
 - **Descripción**: Concepto de margen (`margin`), relleno (`padding`) y borde (`border`). Los estudiantes ajustan los espacios entre elementos de su página para mejorar la presentación.
-- **Enlaces**: [Ver la lección]()
+- **Enlaces**: [Ver la lección](https://youtu.be/dwodC3ETDYM)
 - **Consejos Clave**:
 - **Material de Apoyo**:
+```html
+<div class="caja-1">Soy la primera caja</div>
+
+<div class="caja-2">Soy la segunda caja, estoy abajo</div>
+```
+
+```css
+.caja-1 {
+  background-color :lightblue;
+  border: 3px solid black;
+  padding: 20px;
+  margin-bottom: 30px;
+}
+
+.caja-2 {
+  background-color :blue;
+  border: 3px solid black;
+  padding: 20px;
+}
+}
+```
 
 ### Lección 10: Proyecto final – Mi primera página web (15 minutos)
 - **Descripción**: Actividad integradora que combina todos los conocimientos adquiridos. Los estudiantes crean una página personal con título, imagen, breve descripción y uso de buenas prácticas. Se comparte el resultado final en CodePen.
@@ -209,9 +270,9 @@ body {
 | 4 | Encabezados y párrafos | https://codepen.io/Guillermo-Howard/pen/OPWNBGp |
 | 5 | Enlaces e imágenes | https://codepen.io/Guillermo-Howard/pen/azpNRxx |
 | 6 | Creando listas | https://codepen.io/Guillermo-Howard/pen/EaZKdJM |
-| 7 | Primeros pasos con CSS | https://codepen.io |
-| 8 | Coloreando con clases | https://codepen.io |
-| 9 | Jugando con márgenes y relleno | https://codepen.io |
+| 7 | Primeros pasos con CSS | https://codepen.io/Breithner-Perez/pen/GgrrrqV |
+| 8 | Coloreando con clases | https://codepen.io/Breithner-Perez/pen/XJppwdb |
+| 9 | Jugando con márgenes y relleno | https://codepen.io/Breithner-Perez/pen/rajjgde |
 | 10 | Página personal completa | [https://codepen.io/página-web](https://codepen.io/editor/Jorge-Manuel-the-scripter/pen/019ed97e-6400-71e0-b383-151c3aae366d) |
 
 ---
